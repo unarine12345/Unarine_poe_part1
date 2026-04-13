@@ -12,7 +12,7 @@ namespace Unarine_poe_part1
         static void Main(string[] args)
         {//start of main method
 
-            //creating instance for the class voice_logo
+            
             //without an object name but a constructor
             new command_logo() { };
             //creating an instance for the class prompt_user
