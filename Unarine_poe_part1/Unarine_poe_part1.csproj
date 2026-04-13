@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="command_logo.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="prompt_user.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
